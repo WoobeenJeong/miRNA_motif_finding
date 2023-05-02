@@ -1,6 +1,7 @@
-# bioinfo1_jwb
+# Bioinfo1_jwb
 Works for classroom : "Bio-infomatics and practice 1" in Seoul Nat'l Univ. 
 
+[ 2023-20920 Woobeen Jeong / interdisciplinary program in bio-infomatics ]
 
 ## Contents
 * 2023-04-28 
