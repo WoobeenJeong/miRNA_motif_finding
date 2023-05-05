@@ -9,6 +9,11 @@ Works for classroom : "Bio-infomatics and practice 1" in Seoul Nat'l Univ.
   
   > file name: CoLab_TermProj_2023_1.ipynb
 * 2023-05-05 
-  > 
+  > LIN28A RNA interaction : Gene ontology term-enrichment analysis
   
-  > file name: 
+  > file name: CoLab_TermProj_2023_2.ipynb
+
+* 2023-05-012
+  >
+  
+  >
