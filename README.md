@@ -33,7 +33,7 @@ Works for classroom : "Bio-infomatics and practice 1" in Seoul Nat'l Univ.
   > Translation region을 확인하는 Ribosome-seq을 바탕으로 start와 stop가까이에 얼마나 많은 read가 align되었는지를 파악한다. 특히 3 nucleotide단위로 읽기때문에 첫 peak가 높고 이후로 줄어드는 그림의 특징을 인지한다. 
  
   <p align="left">
-  <img src="https://github.com/WoobeenJeong/bioinfo1_jwb/assets/132027211/65224798-2b0e-4504-a659-649238346f3f" alt="image" width="auto" height="100">
+  <img src="https://github.com/WoobeenJeong/bioinfo1_jwb/assets/132027211/cb6520ea-825e-4c50-96fd-2c9de0f7a3df" alt="image" width="auto" height="100">
    </p>
   
    [> Mission 2:](https://github.com/WoobeenJeong/bioinfo1_jwb/blob/main/CoLab_TermProj_2023_2.ipynb)
