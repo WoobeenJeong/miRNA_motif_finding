@@ -28,7 +28,7 @@ Works for classroom : "Bio-infomatics and practice 1" in Seoul Nat'l Univ.
    [file name] CoLab_TermProj_2023_1_5.ipynb
 
 * 2023-05-05 **[ Mission 2 ]**
-  > Ribosomal footprint density near start and stop codons (수정 중)
+  > Ribosomal footprint density near start and stop codons
   
   > Translation region을 확인하는 Ribosome-seq을 바탕으로 start와 stop가까이에 얼마나 많은 read가 align되었는지를 파악한다. 특히 3 nucleotide단위로 읽기때문에 첫 peak가 높고 이후로 줄어드는 그림의 특징을 인지한다. 
  
