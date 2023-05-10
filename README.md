@@ -19,7 +19,9 @@ Works for classroom : "Bio-infomatics and practice 1" in Seoul Nat'l Univ.
  
    [> Mission02:](https://github.com/WoobeenJeong/bioinfo1_jwb/blob/main/CoLab_TermProj_2023_2.ipynb)
    [file name] CoLab_TermProj_2023_2.ipynb
-   
+![image](https://github.com/WoobeenJeong/bioinfo1_jwb/assets/132027211/7228d592-9d1a-4b0b-a3c7-65f0683a06d5)
+
+
 * 2023-05-12
   > 
   
