@@ -7,7 +7,7 @@ Works for classroom : "Bio-infomatics and practice 1" in Seoul Nat'l Univ.
 
 [ 2023-20920 Woobeen Jeong / interdisciplinary program in bio-infomatics ]
 
-## Contents1: LIN28A RNA interaction
+## Contents 1: LIN28A RNA interaction
 * 2023-04-28 **[ Mission 1 ]**
   > what and why does it bind
   
@@ -46,4 +46,15 @@ Works for classroom : "Bio-infomatics and practice 1" in Seoul Nat'l Univ.
   file name:
   
   
-  ## Contents 2: 
+  ## Contents 2: Sars-Cov2 Analysis
+  * 2023-04-2? 
+  > A
+  
+  > A
+  
+  ## Contents 3: Analysis
+    * 2023-05-0?
+  > A
+  
+  > A
+  
