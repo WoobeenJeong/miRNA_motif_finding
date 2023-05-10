@@ -2,7 +2,7 @@
 Works for classroom : "Bio-infomatics and practice 1" in Seoul Nat'l Univ. 
 
 
-<span class="파란글씨">This text will appear blue and underlined.</span>
+<span style="color:blue"> 파란 밑줄 </span>
 로 된 링크를 따라, 해당 미션을 확인 가능합니다.
 
 [ 2023-20920 Woobeen Jeong / interdisciplinary program in bio-infomatics ]
