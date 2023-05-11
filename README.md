@@ -56,9 +56,14 @@ Works for classroom : "Bio-infomatics and practice 1" in Seoul Nat'l Univ.
   > Differential gene expression of leishmaniasis
 
   > RNA seq 데이터를 바탕으로 transcriptomic profiling으로 다양한 형태의 DEG분석을 실습한다. 
+    <p align="left">
+   </p>
   1. TMP 계산 및 scatter plot
+    <p align="left">
+   </p>
   2. TMP correlation 확인 (정상 vs leishmania군 구별)
-  
+    <p align="left">
+   </p>
   3. TMP상의 문제점 확인 : 1) 유전자 길이로 보정해서 짧은 read결과에서 편향 발생(<->RPKM)
                            2) 다른 샘플과의 비교가 부적절
       <p align="left">
