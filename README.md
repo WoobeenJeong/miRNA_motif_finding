@@ -7,6 +7,15 @@ Works for classroom : "Bio-infomatics and practice 1" in Seoul Nat'l Univ.
 
 [ 2023-20920 Woobeen Jeong / interdisciplinary program in bio-infomatics ]
 
+## Free Expansion: LIN28A RNA-seq data
+* 2023-05-23
+  > 주제 선정 시작 : 후보군
+    - Relative frequency of Watson-Crick pair
+    - Binding predictor using ML
+
+* 2023-05-24
+
+
 ## Contents: LIN28A RNA interaction
 * 2023-04-28 **[ Mission 1 ]**
   > what and why does it bind
@@ -42,7 +51,7 @@ Works for classroom : "Bio-infomatics and practice 1" in Seoul Nat'l Univ.
 * 2023-05-12 **[ Mission 3 ]**
   > Error accumulated near the binding site
   
-  >
+  > Binding site주변에는 많은 biological 및 mechanical error가 발생할 수 있다. 이때, 정보량을 바탕으로 shannon index를 구함으로써 해당 위치에서의 변이를 관찰할 수 있다.
   
    <p align="left">
   <img src="https://github.com/WoobeenJeong/bioinfo1_jwb/assets/132027211/f5bdd0ca-1113-43df-bb60-a6dcaafc4949" alt="image" width="auto" height="100">
