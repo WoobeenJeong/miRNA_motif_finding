@@ -39,7 +39,7 @@ Works for classroom : "Bio-infomatics and practice 1" in Seoul Nat'l Univ.
    [> Mission 2:](https://github.com/WoobeenJeong/bioinfo1_jwb/blob/main/CoLab_TermProj_2023_2.ipynb)
    [file name] CoLab_TermProj_2023_2.ipynb
 
-* 2023-05-12**[ Mission 3 ]**
+* 2023-05-12 **[ Mission 3 ]**
   > Error accumulated near the binding site
   
   >
@@ -48,6 +48,5 @@ Works for classroom : "Bio-infomatics and practice 1" in Seoul Nat'l Univ.
   <img src="https://github.com/WoobeenJeong/bioinfo1_jwb/assets/132027211/f5bdd0ca-1113-43df-bb60-a6dcaafc4949" alt="image" width="auto" height="100">
    </p>
 
-   [> Mission 3:]
-(https://github.com/WoobeenJeong/bioinfo1_jwb/blob/main/CoLab_TermProj_2023_3.ipynb)
+   [> Mission 3:](https://github.com/WoobeenJeong/bioinfo1_jwb/blob/main/CoLab_TermProj_2023_3.ipynb)
    [file name] CoLab_TermProj_2023_3.ipynb
