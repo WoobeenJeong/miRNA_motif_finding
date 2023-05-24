@@ -15,7 +15,7 @@ Works for classroom : "Bio-infomatics and practice 1" in Seoul Nat'l Univ.
 
 * 2023-05-24
    
-   [> Initial:](https://github.com/WoobeenJeong/bioinfo1_jwb/blob/main/CoLab_TermProj_2023_1.ipynb)
+   [> Initial:](https://github.com/WoobeenJeong/bioinfo1_jwb/blob/main/initial.ipynb)
    [file name] initial.ipynb
   > initial.ipynb 작성
     - 기본 환경 세팅 및 download 파일 확인
