@@ -22,6 +22,13 @@ Works for classroom : "Bio-infomatics and practice 1" in Seoul Nat'l Univ.
     - Anaconda3 실행 상 문제 확인
 
 
+
+
+_______________________________________________
+
+
+
+
 ## Contents: LIN28A RNA interaction
 * 2023-04-28 **[ Mission 1 ]**
   > what and why does it bind
