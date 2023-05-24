@@ -14,6 +14,12 @@ Works for classroom : "Bio-infomatics and practice 1" in Seoul Nat'l Univ.
     - Binding predictor using ML
 
 * 2023-05-24
+   
+   [> Initial:](https://github.com/WoobeenJeong/bioinfo1_jwb/blob/main/CoLab_TermProj_2023_1.ipynb)
+   [file name] initial.ipynb
+  > initial.ipynb 작성
+    - 기본 환경 세팅 및 download 파일 확인
+    - Anaconda3 실행 상 문제 확인
 
 
 ## Contents: LIN28A RNA interaction
