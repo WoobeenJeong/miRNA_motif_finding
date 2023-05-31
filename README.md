@@ -74,8 +74,9 @@ _______________________________________________
   > Binding site주변에는 많은 biological 및 mechanical error가 발생할 수 있다. 이때, 정보량을 바탕으로 shannon index를 구함으로써 해당 위치에서의 변이를 관찰할 수 있다.
   
    <p align="left">
-  <img src="https://github.com/WoobeenJeong/bioinfo1_jwb/assets/132027211/f5bdd0ca-1113-43df-bb60-a6dcaafc4949" alt="image" width="auto" height="100">
+  <img src="https://github.com/WoobeenJeong/bioinfo1_jwb/assets/132027211/fa606df3-c84c-4c16-9844-72dab6d55a55" alt="image" width="auto" height="100">
    </p>
 
    [> Mission 3:](https://github.com/WoobeenJeong/bioinfo1_jwb/blob/main/CoLab_TermProj_2023_3.ipynb)
    [file name] CoLab_TermProj_2023_3.ipynb
+
