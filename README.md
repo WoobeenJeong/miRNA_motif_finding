@@ -30,6 +30,14 @@ Works for classroom : "Bio-infomatics and practice 1" in Seoul Nat'l Univ.
   > Projcect_jwb.ipynb 작성
     - Bioconda문제로 인해 Colab에서 작성 일단 진행 
     - Shannon entrophy 바탕으로 다양한 형태의 trial
+
+1) C=Shannon’s entrophy를 CRES: Crosslinking-induced reverse transcription error score로 가져감  
+2) 이때, insertion은 무시 substitution과 deletion고려  
+3) FDR은 permutation으로 구함   
+4) Read는 rRNA,tRNA,adapte제외하고 GSNAP의 Refseq에 align  
+5) 이를 바탕으로, 먼저 CRES(0.8) 상 low depth positio이 130 reads 이하  
+6) LOESS smoothing (regression) a=0.5사용 medium depth positon 250 read이하  
+7) FDR(0.001)상 high depth position >250 read 사용 
  
 _______________________________________________
 
