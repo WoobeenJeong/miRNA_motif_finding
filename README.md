@@ -21,9 +21,16 @@ Works for classroom : "Bio-infomatics and practice 1" in Seoul Nat'l Univ.
     - 기본 환경 세팅 및 download 파일 확인
     - Anaconda3 실행 상 문제 확인
 
+* 2023-05-30
 
 
-
+   
+   [> Project:](https://github.com/WoobeenJeong/bioinfo1_jwb/blob/main/Project_jwb.ipynb)
+   [file name] Project.ipynb
+  > Projcect_jwb.ipynb 작성
+    - Bioconda문제로 인해 Colab에서 작성 일단 진행 
+    - Shannon entrophy 바탕으로 다양한 형태의 trial
+ 
 _______________________________________________
 
 
