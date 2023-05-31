@@ -22,13 +22,12 @@ Works for classroom : "Bio-infomatics and practice 1" in Seoul Nat'l Univ.
     - Anaconda3 실행 상 문제 확인
 
 * 2023-05-30
-
-
    
-   [> Project:](https://github.com/WoobeenJeong/bioinfo1_jwb/blob/main/Project_jwb.ipynb)
-   [file name] Project.ipynb
-  > Projcect_jwb.ipynb 작성
+   [> Project 001:](https://github.com/WoobeenJeong/bioinfo1_jwb/blob/main/Project_001.ipynb)
+   [file name] Project_001.ipynb
+  > Projcect_001.ipynb 작성
     - Bioconda문제로 인해 Colab에서 작성 일단 진행 
+    - RAM 사용량 이슈로 인해 프로젝트를 나누어서 분할 진행
     - Shannon entrophy 바탕으로 다양한 형태의 trial
 
 1) C=Shannon’s entrophy를 CRES: Crosslinking-induced reverse transcription error score로 가져감  
