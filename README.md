@@ -52,7 +52,7 @@ Works for classroom : "Bio-infomatics and practice 1" in Seoul Nat'l Univ.
 * 2023-06-05
 
    [> Project 004:](https://github.com/WoobeenJeong/bioinfo1_jwb/blob/main/Project_004.ipynb)
-   [file name] Project_004.ipynb
+   [file name] Project_004.ipynb  
    [> Project 004_5:](https://github.com/WoobeenJeong/bioinfo1_jwb/blob/main/Project_004_5.ipynb)
    [file name] Project_004_5.ipynb
    
