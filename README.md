@@ -7,7 +7,7 @@ Works for classroom : "Bio-infomatics and practice 1" in Seoul Nat'l Univ.
 
 [ 2023-20920 Woobeen Jeong / interdisciplinary program in bio-infomatics ]
 
-## Free Expansion: LIN28A RNA-seq data
+## Free Expansion: LIN28A RNA-seq data (날짜 : 최초작성일 기준 / 주기적 수정 존재)
 * 2023-05-23
   > 주제 선정 시작 : 후보군
     - Relative frequency of Watson-Crick pair
