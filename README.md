@@ -30,13 +30,40 @@ Works for classroom : "Bio-infomatics and practice 1" in Seoul Nat'l Univ.
     - RAM 사용량 이슈로 인해 프로젝트를 나누어서 분할 진행
     - Shannon entrophy 바탕으로 다양한 형태의 trial
 
-1) C=Shannon’s entrophy를 CRES: Crosslinking-induced reverse transcription error score로 가져감  
-2) 이때, insertion은 무시 substitution과 deletion고려  
-3) FDR은 permutation으로 구함   
-4) Read는 rRNA,tRNA,adapte제외하고 GSNAP의 Refseq에 align  
-5) 이를 바탕으로, 먼저 CRES(0.8) 상 low depth positio이 130 reads 이하  
-6) LOESS smoothing (regression) a=0.5사용 medium depth positon 250 read이하  
-7) FDR(0.001)상 high depth position >250 read 사용 
+* 2023-05-31
+
+   [> Project 002:](https://github.com/WoobeenJeong/bioinfo1_jwb/blob/main/Project_002.ipynb)
+   [file name] Project_002.ipynb
+  > Projcect_002.ipynb 작성
+    1) C=Shannon’s entrophy를 CRES: Crosslinking-induced reverse transcription error score로 가져감  
+    2) 이때, insertion은 무시 substitution과 deletion고려  
+    3) Read는 rRNA,tRNA,adapte제외하고 GSNAP의 Refseq에 align  
+    4) 이를 바탕으로, 먼저 CRES(0.8) 상 depth  50 reads 이상
+
+* 2023-06-04
+
+   [> Project 003:](https://github.com/WoobeenJeong/bioinfo1_jwb/blob/main/Project_003.ipynb)
+   [file name] Project_003.ipynb
+  > Projcect_003.ipynb 작성
+    - 타깃 chr9에 대해 mirlet7g motif분석
+    - 결과상으로는 LARS2 ptn coding region motif가 나옴
+    - 버전이 서로 달라서 그런 것으로 확인
+
+* 2023-06-05
+
+   [> Project 004:](https://github.com/WoobeenJeong/bioinfo1_jwb/blob/main/Project_004.ipynb)
+   [file name] Project_004.ipynb
+   [> Project 004_5:](https://github.com/WoobeenJeong/bioinfo1_jwb/blob/main/Project_004_5.ipynb)
+   [file name] Project_004_5.ipynb
+   
+  > Projcect_004.ipynb 작성 + 4.5도 작성
+    - 해당 region구해서 결과물 작성
+    - motif추정 구역 -6,+6까지 확인
+    - normalization과 bit score 둘 다 wordlogo 작성
+    참조 사이트 : https://github.com/jbkinney/logomaker/tree/master/logomaker/tutorials
+    - 다양한 형태로 작성하는 법 알려주며, 간단한 예시도 존재하므로 활용 용이
+    - 여기서도 information이라는 함수를 바탕으로 shannon entropy를 고려
+
  
 _______________________________________________
 
