@@ -15,12 +15,28 @@ Works for classroom : "Bio-infomatics and practice 1" in Seoul Nat'l Univ.
 
 **최종 발표 활용 작성 파일**
 
+* 2023-06-07
+ 
    [> Project 005:](https://github.com/WoobeenJeong/bioinfo1_jwb/blob/main/Project_005.ipynb)
-   [file name] Project_005.ipynb
-   
-      [> Project 006:](https://github.com/WoobeenJeong/bioinfo1_jwb/blob/main/Project_006.ipynb)
+   [file name] Project_005.ipynb  
+   [> Project 006:](https://github.com/WoobeenJeong/bioinfo1_jwb/blob/main/Project_006.ipynb)
    [file name] Project_006.ipynb
 
+  > Project 005  
+  1. samtools를 통해 bam을 전처리 완벽히 수행
+  2. shannon entropy를 직접 구하는 식 작성 
+      (for문으로 너무 어렵게 A,T,G,C를 각각 구해서 용량 크면 힘듦)
+      (원리를 이해하고 작성이 가능하다는 것에 의의)
+      (결과값이 맞는지 scipy.stats 패키지의 entropy와 비교)
+  4. threshold를 비교해가며, shannon pick를 구상
+  5. 원하는 region유도과정 확인
+  
+  > Project 006  
+  1. bam에서 나온 결과를 바탕으로 원하는 fasta sequence를 구하기
+  2. 나중에 해석 시, position이 버젼때문에 달라진 점 설명 (그래도 얼추)
+  3. weblogo 만들어주는 툴 사용 (참조 홈페이지 링크 게시)
+  4. co-occurence가 무엇인지 공부 및 예시
+  5. 개념을 최대한 적용해서 작성 (plot이 문제 많지만....)
 
 _______________________________________________
 
