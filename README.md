@@ -13,6 +13,17 @@ Works for classroom : "Bio-infomatics and practice 1" in Seoul Nat'l Univ.
     - Relative frequency of Watson-Crick pair
     - Binding predictor using ML
 
+**최종 발표 활용 작성 파일**
+
+   [> Project 005:](https://github.com/WoobeenJeong/bioinfo1_jwb/blob/main/Project_005.ipynb)
+   [file name] Project_005.ipynb
+   
+      [> Project 006:](https://github.com/WoobeenJeong/bioinfo1_jwb/blob/main/Project_006.ipynb)
+   [file name] Project_006.ipynb
+
+
+_______________________________________________
+
 * 2023-05-24
    
    [> Initial:](https://github.com/WoobeenJeong/bioinfo1_jwb/blob/main/initial.ipynb)
