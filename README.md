@@ -1,5 +1,7 @@
 # Bioinfo1_jwb
-Works for classroom : "Bio-infomatics and practice 1" in Seoul Nat'l Univ. 
+Project Works for classroom : "Bio-infomatics and practice 1" in Seoul Nat'l Univ.   
+
+
 
 
 <span style="color:blue"> 파란 밑줄 </span>
