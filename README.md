@@ -31,7 +31,8 @@ Project Works for classroom : "Bio-infomatics and practice 1" in Seoul Nat'l Uni
       (원리를 이해하고 작성이 가능하다는 것에 의의)
       (결과값이 맞는지 scipy.stats 패키지의 entropy와 비교)
   4. threshold를 비교해가며, shannon pick를 구상
-  5. 원하는 region유도과정 확인
+  5. 원하는 region유도과정 확인  
+  
   
   > Project 006  
   1. bam에서 나온 결과를 바탕으로 원하는 fasta sequence를 구하기
