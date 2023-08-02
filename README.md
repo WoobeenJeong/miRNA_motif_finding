@@ -2,6 +2,7 @@
 Project Works for classroom : "Bio-infomatics and practice 1" in Seoul Nat'l Univ.   
 
 
+![image](https://github.com/WoobeenJeong/bioinfo1_jwb/assets/132027211/f236af06-d444-4286-98f0-815830d66478)
 
 
 <span style="color:blue"> 파란 밑줄 </span>
