@@ -40,7 +40,9 @@ Project Works for classroom : "Bio-infomatics and practice 1" in Seoul Nat'l Uni
   5. 개념을 최대한 적용해서 작성 (plot이 문제 많지만....)
 
 
-**결과**
+**결과(발표자료)**
+
+![image](https://github.com/WoobeenJeong/bioinfo1_jwb/assets/132027211/4f30d5d2-b7e1-4d47-9c27-7b044e673265)
 
 ![image](https://github.com/WoobeenJeong/bioinfo1_jwb/assets/132027211/bd1ffd8d-e8f5-4404-8aff-5155eb1c8b08)
 
