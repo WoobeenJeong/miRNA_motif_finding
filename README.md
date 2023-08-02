@@ -8,7 +8,6 @@ Project Works for classroom : "Bio-infomatics and practice 1" in Seoul Nat'l Uni
 <span style="color:blue"> 파란 밑줄 </span>
 로 된 링크를 따라, 해당 미션을 확인 가능합니다.
 
-[ 2023-20920 Woobeen Jeong / interdisciplinary program in bio-infomatics ]
 
 ## Free Expansion: LIN28A RNA-seq data (날짜 : 최초작성일 기준 / 주기적 수정 존재)
 * 2023-05-23
