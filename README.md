@@ -10,14 +10,12 @@ Project Works for classroom : "Bio-infomatics and practice 1" in Seoul Nat'l Uni
 
 
 ## Free Expansion: LIN28A RNA-seq data (날짜 : 최초작성일 기준 / 주기적 수정 존재)
-* 2023-05-23
+
   > 주제 선정 시작 : 후보군
     - Relative frequency of Watson-Crick pair
     - Binding predictor using ML
 
 **최종 발표 활용 작성 파일**
-
-* 2023-06-07
  
    [> Project 005:](https://github.com/WoobeenJeong/bioinfo1_jwb/blob/main/Project_005.ipynb)
    [file name] Project_005.ipynb  
@@ -40,6 +38,15 @@ Project Works for classroom : "Bio-infomatics and practice 1" in Seoul Nat'l Uni
   3. weblogo 만들어주는 툴 사용 (참조 홈페이지 링크 게시)
   4. co-occurence가 무엇인지 공부 및 예시
   5. 개념을 최대한 적용해서 작성 (plot이 문제 많지만....)
+
+
+**결과**
+
+![image](https://github.com/WoobeenJeong/bioinfo1_jwb/assets/132027211/bd1ffd8d-e8f5-4404-8aff-5155eb1c8b08)
+
+![image](https://github.com/WoobeenJeong/bioinfo1_jwb/assets/132027211/a877d0a0-dfb4-4738-9a96-2c1481de6c54)
+
+![image](https://github.com/WoobeenJeong/bioinfo1_jwb/assets/132027211/c94b6fcc-ecd1-4f54-a656-54d4dd52d2b8)
 
 _______________________________________________
 
