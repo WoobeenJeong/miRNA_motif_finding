@@ -5,39 +5,11 @@ Project Works for classroom : "Bio-infomatics and practice 1" in Seoul Nat'l Uni
 로 된 링크를 따라, 해당 미션을 확인 가능합니다.
 
 
-## Free Expansion: LIN28A RNA-seq data (날짜 : 최초작성일 기준 / 주기적 수정 존재)
+## Free Expansion: LIN28A RNA-seq data 
 
   > 주제 선정 시작 : 후보군
     - Relative frequency of Watson-Crick pair
     - Binding predictor using ML
-
-**최종 발표 활용 작성 파일**
- 
-   [> Project 005:](https://github.com/WoobeenJeong/bioinfo1_jwb/blob/main/Project_005.ipynb)
-   [file name] Project_005.ipynb  
-   [> Project 006:](https://github.com/WoobeenJeong/bioinfo1_jwb/blob/main/Project_006.ipynb)
-   [file name] Project_006.ipynb
-
-  > Project 005  
-  1. samtools를 통해 bam을 전처리 완벽히 수행
-  2. shannon entropy를 직접 구하는 식 작성 
-      (for문으로 너무 어렵게 A,T,G,C를 각각 구해서 용량 크면 힘듦)
-      (원리를 이해하고 작성이 가능하다는 것에 의의)
-      (결과값이 맞는지 scipy.stats 패키지의 entropy와 비교)
-  4. threshold를 비교해가며, shannon pick를 구상
-  5. 원하는 region유도과정 확인  
-  
-  
-  > Project 006  
-  1. bam에서 나온 결과를 바탕으로 원하는 fasta sequence를 구하기
-  2. 나중에 해석 시, position이 버젼때문에 달라진 점 설명 (그래도 얼추)
-  3. weblogo 만들어주는 툴 사용 (참조 홈페이지 링크 게시)
-  4. co-occurence가 무엇인지 공부 및 예시
-  5. 개념을 최대한 적용해서 작성 (plot이 문제 많지만....)
-
-
-**결과(발표자료)**
-
 
 ![image](https://github.com/WoobeenJeong/bioinfo1_jwb/assets/132027211/4f30d5d2-b7e1-4d47-9c27-7b044e673265)
 
@@ -48,6 +20,7 @@ Project Works for classroom : "Bio-infomatics and practice 1" in Seoul Nat'l Uni
 ![image](https://github.com/WoobeenJeong/bioinfo1_jwb/assets/132027211/c94b6fcc-ecd1-4f54-a656-54d4dd52d2b8)
 
 _______________________________________________
+## log
 
 * 2023-05-24
    
@@ -85,7 +58,8 @@ _______________________________________________
     - 결과상으로는 LARS2 ptn coding region motif가 나옴
     - 버전이 서로 달라서 그런 것으로 확인
 
-* 2023-06-05
+   [> Project 005:](https://github.com/WoobeenJeong/bioinfo1_jwb/blob/main/Project_005.ipynb)
+   [file name] Project_005.ipynb  
 
    [> Project 004:](https://github.com/WoobeenJeong/bioinfo1_jwb/blob/main/Project_004.ipynb)
    [file name] Project_004.ipynb  
@@ -100,6 +74,30 @@ _______________________________________________
     - 다양한 형태로 작성하는 법 알려주며, 간단한 예시도 존재하므로 활용 용이
     - 여기서도 information이라는 함수를 바탕으로 shannon entropy를 고려
 
+* 2023-06-07
+
+   [> Project 005:](https://github.com/WoobeenJeong/bioinfo1_jwb/blob/main/Project_005.ipynb)
+   [file name] Project_005.ipynb  
+  > Project 005  
+    1. samtools를 통해 bam을 전처리 완벽히 수행
+    2. shannon entropy를 직접 구하는 식 작성 
+      (for문으로 너무 어렵게 A,T,G,C를 각각 구해서 용량 크면 힘듦)
+      (원리를 이해하고 작성이 가능하다는 것에 의의)
+      (결과값이 맞는지 scipy.stats 패키지의 entropy와 비교)
+    4. threshold를 비교해가며, shannon pick를 구상
+    5. 원하는 region유도과정 확인  
+
+* 2023-06-10
+
+   [> Project 006:](https://github.com/WoobeenJeong/bioinfo1_jwb/blob/main/Project_006.ipynb)
+   [file name] Project_006.ipynb
+
+  > Project 006  
+    1. bam에서 나온 결과를 바탕으로 원하는 fasta sequence를 구하기
+    2. 나중에 해석 시, position이 버젼때문에 달라진 점 설명 (그래도 얼추)
+    3. weblogo 만들어주는 툴 사용 (참조 홈페이지 링크 게시)
+    4. co-occurence가 무엇인지 공부 및 예시
+    5. 개념을 최대한 적용해서 작성 (plot이 문제 많지만....)
  
 _______________________________________________
 
