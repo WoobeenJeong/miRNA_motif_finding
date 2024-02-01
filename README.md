@@ -1,9 +1,6 @@
-# Bioinfo1_jwb
-Project Works for classroom : "Bio-infomatics and practice 1" in Seoul Nat'l Univ.   
+miRNA binding motif finding (Ribo-seq, CLIP-seq)
 
-<span style="color:blue"> 파란 밑줄 </span>
-로 된 링크를 따라, 해당 미션을 확인 가능합니다.
-
+____
 
 ## Free Expansion: LIN28A RNA-seq data 
 
